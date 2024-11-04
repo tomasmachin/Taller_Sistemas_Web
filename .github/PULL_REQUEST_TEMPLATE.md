@@ -1,5 +1,4 @@
-## Descripción
-<!-- Describe los cambios realizados en esta Pull Request. -->
+## Descripción de la Pull Request
 
 ## Tipo de cambio
 Marca con una "x" la opción que mejor describe tu PR:
